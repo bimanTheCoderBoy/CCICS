@@ -1,6 +1,5 @@
 
 import React from "react";
-import Wrap from "./component/Wrap/Wrap";
 import Home from "./component/home/Home";
 import Nav from "./component/Wrap/nav/nav";
 import Footer from "./component/Wrap/footer/Footer";
@@ -22,13 +21,12 @@ import {
   Route,
   Link
 } from "react-router-dom";
-import Brochure from "./component/home/Brochure";
 import BrochureDetail from "./component/home/BrochureDetail";
 import GoToTop from "./component/home/GoToTop";
 
 function App() {
 
-  {
+
     // Disable right-click
     // document.addEventListener('contextmenu', (e) => e.preventDefault());
 
@@ -47,7 +45,7 @@ function App() {
     //   )
     //     return false;
     // };
-  }
+
   return (
     <Router>
       <Loding />
