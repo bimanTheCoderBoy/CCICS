@@ -7,7 +7,7 @@ const Brochure = () => {
             <div className="row">
                 <div className="col-4">
                     <Link to="/brochure-detail">
-                    <img src="img/brochure.png" height="700px" width="300px" alt="brochure" style={{cursor:"pointer"}}/></Link>
+                    <img src='img/slider-img-1.jpg' height="700px" width="300px" alt="brochure" style={{cursor:"pointer"}}/></Link>
                 </div>
                 <div className="col-8 col-ab-ccics">
                     <h2 className="FM1">About CCICS</h2>
