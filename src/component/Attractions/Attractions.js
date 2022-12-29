@@ -19,12 +19,12 @@ const Attractions = () => {
             <ul>
               <li>Bandel Church</li>
               <li>
-                <a href="https://goo.gl/maps/tELkuxPDw7nonep18" target="_blank">
+                <a href="https://goo.gl/maps/tELkuxPDw7nonep18">
                   <p style={{margin:"0"}}> <ImLocation/>Open Map </p>
                 </a>
               </li>
               <li><a href="https://en.wikipedia.org/wiki/Basilica_of_the_Holy_Rosary,_Bandel"
-                target="_blank">Read More</a></li>
+                >Read More</a></li>
             </ul>
 
           </div>
@@ -42,12 +42,12 @@ const Attractions = () => {
             <ul>
               <li>Hooghly Imambara</li>
               <li>
-                <a href="https://goo.gl/maps/xsg8wcbaFzRUSQ9g6" target="_blank">
+                <a href="https://goo.gl/maps/xsg8wcbaFzRUSQ9g6" >
                   <p style={{margin:"0"}}> <ImLocation/>Open Map </p>
                 </a>
               </li>
               <li><a href="https://en.wikipedia.org/wiki/Hooghly_Imambara"
-                target="_blank">Read More</a></li>
+                >Read More</a></li>
             </ul>
 
           </div>
@@ -65,12 +65,12 @@ const Attractions = () => {
             <ul>
               <li>Hanseswari Temple</li>
               <li>
-                <a href="https://goo.gl/maps/s1Wx7heECiWvk4U37" target="_blank">
+                <a href="https://goo.gl/maps/s1Wx7heECiWvk4U37">
                   <p style={{margin:"0"}}> <ImLocation/>Open Map </p>
                 </a>
               </li>
               <li><a href="https://en.wikipedia.org/wiki/Hangseshwari_Temple"
-                target="_blank">Read More</a></li>
+                >Read More</a></li>
             </ul>
 
           </div>

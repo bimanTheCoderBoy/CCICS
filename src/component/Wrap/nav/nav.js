@@ -16,7 +16,7 @@ const Nav = () => {
       <Link to="/speakers">speakers</Link>
       <Link to="/schedule">schedule</Link>
       <div className={Style.dropdown}>
-      <a className={Style.dropdownBtn}>committees <span className={Style.icon}><MdOutlineArrowDropDown/></span></a>
+      <a  href="#" className={Style.dropdownBtn}>committees <span className={Style.icon}><MdOutlineArrowDropDown/></span></a>
       <div className={Style.dropdownWrap}>
       <div className={Style.dropdownContent}>
       <Link to="/Committee/Advisory">Advisory com</Link>
@@ -30,7 +30,7 @@ const Nav = () => {
       <Link to="/Registration">registration</Link>
       <Link to="/#contact">contact</Link>
       <div className={Style.dropdown}>
-      <a className={Style.dropdownBtn}>more <span className={Style.icon}><MdOutlineArrowDropDown/></span></a>
+      <a href="#"className={Style.dropdownBtn}>more <span className={Style.icon}><MdOutlineArrowDropDown/></span></a>
       <div className={Style.dropdownWrap}>
       <div className={Style.dropdownContent}>
       <Link to="/#faq">faq</Link>
