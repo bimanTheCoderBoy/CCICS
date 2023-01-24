@@ -10,10 +10,10 @@ const Brochure = () => {
                     <img src='img/brochure.png' height="700px" width="300px" alt="brochure" style={{cursor:"pointer"}}/></Link>
                 </div>
                 <div className="col-8 col-ab-ccics">
-                    <h2 className="FM1">About CCICS</h2>
+                    <h2 className="FM1">About ICSA</h2>
                     <br />
                     <h4 className="FM4">
-                        The International Conference on Communication, Control and Intelligent Computing Systems [CCICS]
+                        The International Conference on Intelligent Computing Systems and Applications [ICSA] 
                         is an endeavour to bring researchers, academicians, students and industrial experts under a single
                         roof to explore latest developments, applications, results and innovative ideas in various domains
                         of communication, control and intelligent computing systems.
@@ -29,7 +29,7 @@ const Brochure = () => {
                         and also novel contributions in all aspects of automation and intelligent systems. This conference
                         will provide a knowledge-building and experience-sharing platform for professionals from the
                         industry, academia and research organizations.
-                        CCICS aims at facilitating multi-disciplinary conversations on current research that leverages
+                        ICSA aims at facilitating multi-disciplinary conversations on current research that leverages
                         Industry 4.0 technologies to stimulate and facilitate active exchange, interaction and comparison
                         of approaches, methods and ideas related to specific topics, both theoretical and applied, in the
                         general areas related to the Intelligent Computing, Communication, intelligent control techniques,
