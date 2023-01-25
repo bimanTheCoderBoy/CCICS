@@ -2,7 +2,7 @@ import React from 'react';
 import ReactDOM from 'react-dom/client';
 import App from './App';
 import Generator from './component/Committee/Generator';
-import Cochair from './component/Committee/Co-chair/Co-chair';
+// import Cochair from './component/Committee/Co-chair/Co-chair';
 
 
 const root = ReactDOM.createRoot(document.getElementById('root'));

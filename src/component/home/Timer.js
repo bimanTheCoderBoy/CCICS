@@ -5,7 +5,7 @@ const Timer = () => {
     const[hour, setHour]=useState();
     const[min, setMin]=useState();
     const[sec, setSec]=useState();
-    const finalTime = new Date("August 15, 2023 10:15:00");
+    const finalTime = new Date(process.env.REACT_APP_CONFDATE);
     setInterval(() => {
         const now=new Date();
         const t=new Date(finalTime-now);

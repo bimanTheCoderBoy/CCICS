@@ -32,20 +32,22 @@ const Slider = () => {
       <img src="img/slider-img-3.jpeg" alt="" className="slides" /> */}
       <div className="content">
         <span>
+          <h2 style={{fontWeight: 'normal'}}>An International Conference on</h2>
           <h1>
-            Intelligent Computing <br />
-            Systems <br/> & <br/> Applications <br/>
-            [ ICSA ]
+            Intelligent Computing Systems & Applications <br/>
+            [ ICICSA ]
           </h1>
+          <img src="img/conflogo1.png" style={{height: 200, width: 200}}></img>
           <h3>
-            ( A N &nbsp; I N T E R N A T I O N A L &nbsp; C O N F E R E N C E )
+            ( I N &nbsp; H Y B R I D &nbsp; M O D E )
           </h3>
           <h3></h3>
-          <h2 className="">AUGUST 24, 2023</h2>
+          <h2>SEPTEMBER 2-3, 2023</h2>
           <h4>Organised by:</h4>
-          <h5>Academy of Technology,</h5>
+          <h2>Academy of Technology</h2>
 
-          <h5>Hooghly, West Bengal, India</h5>
+          <h5>Aedconagar, Adisaptagram, Hooghly,</h5>
+          <h5>West Bengal - 712121</h5>
         </span>
       </div>
     </div>

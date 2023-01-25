@@ -1,6 +1,7 @@
 import React, { useRef, useState } from 'react'
 import {MdKeyboardArrowRight,MdKeyboardArrowLeft} from "react-icons/md";
 
+
 const About = () => {
   return (
     <div className='About' id='gallery'>

@@ -7,10 +7,11 @@ import Schedule from "./component/Schedule/Schedule";
 import Speaker from "./component/Speaker/Speaker";
 import Scope from "./component/Scope/Scope";
 import Advisory from "./component/Committee/Advisory/Advisory";
-import Cochair from "./component/Committee/Co-chair/Co-chair";
+import Technical from "./component/Committee/Technical/Technical";
+// import Cochair from "./component/Committee/Co-chair/Co-chair";
 import Organasing from "./component/Committee/Organising/Organasing";
-import Patrons from "./component/Committee/Patrons/Patrons";
-import Steering from "./component/Committee/Steering/Steering";
+// import Patrons from "./component/Committee/Patrons/Patrons";
+// import Steering from "./component/Committee/Steering/Steering";
 import Registration from "./component/Registration/Registration";
 import Attractions from "./component/Attractions/Attractions";
 import Sponsors from "./component/Sponsors/Sponsors";
@@ -64,10 +65,14 @@ function App() {
         <Route path="/Committee/Advisory">
           <Advisory />
         </Route>
+        <Route path="/Committee/Technical">
+          <Technical />
+        </Route>
         <Route path="/Committee/Organising">
           <Organasing />
         </Route>
-        <Route path="/Committee/Patrons">
+
+        {/* <Route path="/Committee/Patrons">
           <Patrons />
         </Route>
         <Route path="/Committee/Co-chair">
@@ -75,7 +80,7 @@ function App() {
         </Route>
         <Route path="/Committee/Steering">
           <Steering />
-        </Route>
+        </Route> */}
         <Route path="/Registration">
           <Registration />
         </Route>

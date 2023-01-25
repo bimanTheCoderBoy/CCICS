@@ -20,10 +20,10 @@ const Nav = () => {
       <div className={Style.dropdownWrap}>
       <div className={Style.dropdownContent}>
       <Link to="/Committee/Advisory">Advisory com</Link>
+      <Link to="/Committee/Technical">Technical com</Link>
       <Link to="/Committee/Organising">Organising com</Link>
-      <Link to="/Committee/Patrons">Patrons com</Link>
-      <Link to="/Committee/Co-chair">Co-chair com</Link>
-      <Link to="/Committee/Steering">Steering com</Link>
+      {/* <Link to="/Committee/Co-chair">Co-chair com</Link>
+      <Link to="/Committee/Steering">Steering com</Link> */}
       </div>
       </div>
       </div>
