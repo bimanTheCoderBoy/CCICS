@@ -17,6 +17,8 @@ const CardGen = (props) => {
                 <h2 className="name m-0 mb-1 p-0">{e.name}</h2>
                 <p className='post m-0 mb-2 p-0'>{e.post}</p>
                 <p className="info m-0 mb-2 p-0">{e.detail}</p>
+                <p className='post m-0 mb-2 p-0'>{e.mail}</p>
+                <p className='post m-0 mb-2 p-0'>{e.phone}</p>
                 {/* <div className="social m-0 p-0">
                    <span>
                    <a href={e.twLink}>
