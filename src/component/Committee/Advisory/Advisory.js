@@ -12,18 +12,22 @@ const Advisory = () => {
 
       <div className="container" style={{ fontSize: 20, paddingBottom: 50}}>
         <div className="row">
-        <ul><li>Prof. Ajay Kr Ray, ExProfessor of IIT Kharagpur and ExDirector of IIEST Shibpur Padma Shri Awardee</li>
-    <li>Prof. Shibaji Chakraborty, Jadavpur University</li>
+        <ul>
+        <li>
+        Prof. Ajay Kr Ray, ExProfessor of IIT Kharagpur and Ex-Director of IIEST Shibpur Padma Shri Awardee</li>
+    <li>Prof. Shibaji Chakraborty, Dept. of Electrical Engineering, Jadavpur University</li>
     <li>Prof. Partha Pratim Sarkar, DETS KU</li>
-    <li>Prof. Sanghamitra Bandyopadhyay, ISI</li>
-    <li>Prof. Nikhil Ranjan Das, Calcutta University</li>
+    <li>Prof. Sanghamitra Bandyopadhyay, Padma Shri Awardee, ISI, Kolkata</li>
+    <li>Prof. Nikhil Ranjan Das, Professor & former Head, Institute of Radio Physics and Electronics, Calcutta University</li>
     <li>Prof. Amit Konar, Electronics & Telecommunication Engineering Department, JU</li>
     <li>Prof. Samit Kr Bandyopadhyay, Advisor to Chancellor, JIS University, Professor, Department of Computer Science and Engineering, University of Calcutta</li>
     <li>Prof. Debotosh Guha, Radio Physics and Electronics, University of Calcutta,</li>
     <li>Prof. Partha Pratim Das, Department of Computer Science and Engineering, IIT KGP</li>
     <li>Prof. Chandan Kr Sarkar, ETCE Dept, JU</li>
     <li>Prof. Prasanta Kr Basu, Calcutta University</li>
-    <li>Prof. Gautam Chattopadhyay, Senior Scientist at the NASA's Jet Propulsion Laboratory, California Institute of Technology,</li>
+    <li>Prof. Gautam Chattopadhyay, Senior Scientist at the NASA’s Jet Propulsion 
+Laboratory, California Institute of Technology,
+</li>
     <li>Prof. Subir Kr Saha, Department of Mechanical Engineering, IIT Delhi</li>
     <li>Prof. Shuvra Das, University of Detroit, Mercy</li>
     <li>Prof. Ranjan K.  Mallik, Department of Electrical Engineering,IIT Delhi</li>
@@ -38,10 +42,15 @@ const Advisory = () => {
     <li>Prof. Soumitra Banerjee, Dept: Physical Sciences (DPS), IISER, Kolkata</li>
     <li>Prof. Rob Roy, Executive Vice President, TEOCO, Fairfax, Virginia, USA</li>
     <li>Prof. BMA Rahman, City, University of London, UK</li>
-    <li>Prof. Asim K. Ray, Queen Mary University of London, U.K. Brunel University London, Uxbridge, U.K.</li>
-    <li>Prof. M. J. Deen, Mcmaster University, Canada</li>
-    <li>Prof. Narottam Das, Curtin University, Australia</li>
-    <li>Prof. Gautam Chakraborty, Iwate Prefectural University, Japan</li>
+    <li>Prof. Asim K. Ray, Queen Mary University of London, U.K. Brunel University London, Uxbridge, U.K</li>
+    <li>Prof. M. J. Deen,  Fellow of the American Association for the Advancement of Science, Fellow of the Royal Society of Canada, Mcmaster University, Canada</li>
+    <li>Prof. Narottam Das, Senior Lecturer - Engineering (Electrical)
+School of Engineering and Technology
+Centre for Intelligent Systems, Curtin University, Australia
+</li>
+    <li>Prof. Gautam Chakraborty, Professor & Head of Intelligent Informatics Lab.
+Iwate Prefectural University, Japan
+</li>
     </ul>
         </div>
       </div>

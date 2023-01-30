@@ -42,7 +42,7 @@ const Slider = () => {
             ( I N &nbsp; H Y B R I D &nbsp; M O D E )
           </h3>
           <h3></h3>
-          <h2>SEPTEMBER 2-3, 2023</h2>
+          <h2>SEPTEMBER 12-13, 2023</h2>
           <h4>Organised by:</h4>
           <h2>Academy of Technology</h2>
 

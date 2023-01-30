@@ -14,7 +14,7 @@ const Attractions = () => {
           <div className="Attraction-page">
 
             <img
-              src="https://lh3.googleusercontent.com/p/AF1QipN8MI--BvroAI2ZYYSOtAcYksF7slvzwePAlvEM=s1360-w1360-h1020"
+              src="https://lh3.googleusercontent.com/p/AF1QipN8MI--BvroAI2ZYYSOtAcYksF7slvzwePAlvEM=s1360-w360-h102"
               alt="speaker img"  />
             <ul>
               <li>Bandel Church</li>
@@ -60,7 +60,7 @@ const Attractions = () => {
           <div className="Attraction-page">
 
             <img
-              src="https://lh3.googleusercontent.com/p/AF1QipP4VKz78PIl8flQOSA1Ew15ugeXgZszeE-smsAf=s360-w360-h120"
+              src="https://lh3.googleusercontent.com/p/AF1QipP4VKz78PIl8flQOSA1Ew15ugeXgZszeE-smsAf=s260-w160-h120"
               alt="speaker img"  />
             <ul>
               <li>Hanseswari Temple</li>

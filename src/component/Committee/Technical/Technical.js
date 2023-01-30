@@ -25,13 +25,13 @@ const Technical = () => {
       <div className="container" style={{ fontSize: 20}}>
         <div className="row">
           <ul>
-            <li>Dr. Abhijit Banerjee, Academy of Technology</li>
-            <li>Dr. Sandip S. Chowdhury, Academy of Technology</li>
-            <li>Dr. Hironmay Mondal, Academy of Technology</li>
-            <li>Dr. Krishna Bhowal, Academy of Technology</li>
-            <li>Dr. Jhumpa De, Academy of Technology</li>
-            <li>Dr. Arindrajit Pal, Academy of Technology</li>
-            <li>Dr. Srinjoy Bid, Academy of Technology</li>
+            <li>Dr. Abhijit Banerjee, HoD, Department of Electronics & Communication Engg, Academy of Technology</li>
+            <li>Dr. Sandip S. Chowdhury, HoD, Department of Electrical Engg, Academy of Technology</li>
+            <li>Dr. Hironmay Mondal, HoD, Department of Electrical & Electronics Engg, Academy of Technology</li>
+            <li>Dr. Krishna Bhowal, Registrar, Academy of Technology</li>
+            <li>Dr. Jhumpa De, Professor, Department of Mechanical Engg, Academy of Technology</li>
+            <li>Dr. Arindrajit Pal, Department of Computer Science Engg, Academy of Technology</li>
+            <li>Dr. Srinjoy Bid, HoD, Department of Engineering Sciences & Humanities, Academy of Technology</li>
           </ul>
         </div>
       </div>
