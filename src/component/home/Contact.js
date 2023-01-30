@@ -7,7 +7,7 @@ const Contact = () => {
       <br />
       <div>
         <ul>
-          <li>Prof. Anil Kumar Sharma, Academy of Technology, Contact No.</li>
+          <li>Prof. Anil Kumar Sharma, Academy of Technology,<br>Email: anil.sharma@aot.edu.in<br> Contact No: 9333837505</li>
           <li>Prof. Kanishka Majumder, Academy of Technology, Contact No.</li>
           <li>Prof. Soumya Chatterjee, Academy of Technology, Contact No.</li>
         </ul>
