@@ -8,8 +8,8 @@ const Contact = () => {
       <div>
         <ul>
           <li>Prof. Anil Kumar Sharma, Academy of Technology,<br>Email: anil.sharma@aot.edu.in<br> Contact No: 9333837505</li>
-          <li>Prof. Kanishka Majumder, Academy of Technology, Contact No.</li>
-          <li>Prof. Soumya Chatterjee, Academy of Technology, Contact No.</li>
+          <li>Prof. Kanishka Majumder, Academy of Technology, <br>Email: kanishka.majumder@aot.edu.in <br> Contact No: 98366 74980</li>
+          <li>Prof. Soumya Chatterjee, Academy of Technology, <br>Email: soumya.chatterjee@aot.edu.in <br> Contact No: 8617774883 </li>
         </ul>
         Email @ samplemail.aot.edu.in
       </div>
