@@ -32,10 +32,10 @@ const Slider = () => {
       <img src="img/slider-img-3.jpeg" alt="" className="slides" /> */}
       <div className="content">
         <span>
-          <h2 style={{fontWeight: 'normal'}}>An International Conference on</h2>
+          <h2 style={{fontWeight: 'normal'}}>4th International Conference on</h2>
           <h1>
-            Intelligent Computing Systems & Applications <br/>
-            [ ICICSA ]
+            Intelligent Computing, Communication & Control 2023 <br/>
+            [ ICIC3 ]
           </h1>
           <img src="img/conflogo1.png" style={{height: 200, width: 200}}></img>
           <h3>
