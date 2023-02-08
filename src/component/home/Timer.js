@@ -5,7 +5,7 @@ const Timer = () => {
     const[hour, setHour]=useState();
     const[min, setMin]=useState();
     const[sec, setSec]=useState();
-    const finalTime = new Date("August 12, 2023 8:00:00");
+    const finalTime = new Date("August 19, 2023 8:00:00");
     setInterval(() => {
         const now=new Date();
         const t=new Date(finalTime-now);
