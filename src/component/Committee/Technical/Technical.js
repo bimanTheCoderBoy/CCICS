@@ -30,7 +30,7 @@ const Technical = () => {
             <li>Dr. Hironmay Mondal, HoD, Department of Electrical & Electronics Engg, Academy of Technology</li>
             <li>Dr. Krishna Bhowal, Registrar, Academy of Technology</li>
             <li>Dr. Jhumpa De, Professor, Department of Mechanical Engg, Academy of Technology</li>
-            <li>Dr. Arindrajit Pal, Department of Computer Science Engg, Academy of Technology</li>
+            <li>Dr. Arindrajit Pal, Professor, Department of Computer Science Engg, Academy of Technology</li>
             <li>Dr. Srinjoy Bid, HoD, Department of Engineering Sciences & Humanities, Academy of Technology</li>
           </ul>
         </div>

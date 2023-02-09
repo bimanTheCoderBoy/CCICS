@@ -25,7 +25,7 @@ const Registration = () => {
     </div>
   {/* table end */}
 
-  <p>Registration fee can be paid through online fund transfer/ Demand Draft drawn in favour of ICICSA payable at State Bank of India (SBI), Adisaptragram (Branch 0202). One may transfer the money through online into the ICICSA account as per the following details:</p>
+  <p>Registration fee can be paid through online fund transfer/ Demand Draft drawn in favour of ICIC3 payable at State Bank of India (SBI), Adisaptragram (Branch 0202). One may transfer the money through online into the ICIC3 account as per the following details:</p>
 
   <h2 className='mt-3'>Account Information</h2>
 
