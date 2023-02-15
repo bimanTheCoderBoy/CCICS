@@ -60,4 +60,27 @@
            .ctd-type-2{
               background-color: rgb(247, 254, 255);
            }
+
+           /*
+           chair
+           */
+           .chair{
+            /* color:red; */
+            display: grid;
+            flex-direction: row;
+            grid-template-columns:70vw 20vw ;
+           
+            align-items: center;
+           }
+           .chair div{
+            width: 100%;
+            justify-content: center;
+            text-align: center;
+            align-items: center;
+           }
+           .chair img{
+           
+            height: 150px;
+            display: inline;
+           }
         

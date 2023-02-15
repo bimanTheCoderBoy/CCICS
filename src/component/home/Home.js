@@ -38,6 +38,9 @@ const Slider = () => {
             [ ICIC3 ]
           </h1>
           <img src="img/conflogo1.png" style={{height: 200, width: 200}}></img>
+          <img src="img/CSI_Logo.png" className="logoCSI" style={{height: 110, width: 110}}></img>
+          <img src="img/IEI_Logo.png" className="logoIEI" style={{height: 110, width: 110}}></img>
+          <img src="img/IETE_Logo.png" className="logoIETE" style={{height: 110, width: 110}}></img>
           <h3>
             ( I N &nbsp; H Y B R I D &nbsp; M O D E )
           </h3>

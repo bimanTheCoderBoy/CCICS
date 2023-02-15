@@ -321,3 +321,23 @@
     border:  1px solid var(--bg-blue);
 }
 /* GoToTop end */
+
+/*logos*/
+.logoCSI{
+    position: absolute;
+    right: 20px;
+    top: 35px;
+    border-radius: 50%;
+}
+.logoIEI{
+    position: absolute;
+    left: 20px;
+    top: 35px;
+    border-radius: 50%;
+}
+.logoIETE{
+    position: absolute;
+    right: 20px;
+    top: 600px;
+    border-radius: 50%;
+}
