@@ -14,17 +14,6 @@ const Technical = () => {
         <div className="row">
           <ul>
             <li>Prof. Dilip Kumar Maity, Principal, Academy of Technology</li>
-            <li><div className="chair">
-              Prof. Dilip Bhattacharya,
-              Ex-Professor, Electronics & Electrical Communication Engineering, IIT Kharagpur
-              Chairman, BOG & Director, Academy of Technology
-              <div>
-              <img src="/img/dilipBhattacharya.jpg" alt="" />
-              </div>
-            </div>
-
-            </li>
-
           </ul>
         </div>
       </div>
@@ -43,16 +32,6 @@ const Technical = () => {
             <li>Dr. Jhumpa De, Professor, Department of Mechanical Engg, Academy of Technology</li>
             <li>Dr. Arindrajit Pal, Professor, Department of Computer Science Engg, Academy of Technology</li>
             <li>Dr. Srinjoy Bid, HoD, Department of Engineering Sciences & Humanities, Academy of Technology</li>
-            <li><div className="chair">
-              Prof. Arun K. Majumder,
-              Ex Hod of CSE, Dean and Deputy Director, IIT Kharagpur,
-              Emeritus Professor, Department of Data Science, JISIASR
-              <div>
-              <img src="/img/arunMajumder.jpg" alt="" />
-              </div>
-            </div>
-
-            </li>
           </ul>
         </div>
       </div>
@@ -86,51 +65,6 @@ const Technical = () => {
           <li>Prof. Bandana Majumder, IIT Kharagpur</li>
           <li>Prof. Amitabha Mondal, Calcutta University</li>
           <li>Prof. Suman Sengupta, Academy of Technology</li>
-        </div>
-      </div>
-      <div className="mt-5">
-        {<Heading>INVITED TALK BY</Heading>}
-      </div>
-
-      <div className="container" style={{ fontSize: 20 }}>
-        <div className="row">
-          <ul>
-            <li><div className="chair" style={{marginBottom: "25px"}}>
-              Prof. M. J. Deen, Mcmaster University, Canada
-              <div>
-              <img src="/img/MJDeen.jpg" alt="" />
-              </div>
-            </div>
-
-            </li>
-            <li><div className="chair" style={{marginBottom: "25px"}}>
-              Prof. BMA Rahman, City, University of London, UK
-              <div>
-              <img src="/img/BMARaman.jpg" alt="" />
-              </div>
-            </div>
-
-            </li>
-            <li><div className="chair" style={{marginBottom: "25px"}}>
-              Prof. Rob Roy, Executive Vice President, TEOCO, Fairfax, Virginia, USA
-
-              <div>
-              <img src="/img/RobRoy.jpg"  alt="" />
-              </div>
-            </div>
-
-            </li>
-            <li><div className="chair" style={{marginBottom: "25px"}}>
-              Prof. Ajay Kr Ray, ExProfessor of IIT Kharagpur and Ex-Director of IIEST Shibpur Padma Shri Awardee
-
-              <div>
-              <img src="/img/AjaiKRRay.jpg"  alt="" />
-              </div>
-            </div>
-
-            </li>
-
-          </ul>
         </div>
       </div>
     </div>

@@ -3,19 +3,21 @@ const Data=[
         personalLink:"#1",
         name:"Prof. Dilip Bhattacharya",
         post:"Chair",
-        detail:"Ex-Prof. Electronics & Electrical Communication Engineering, IIT KGP; Director, Academy of Technology",
+        detail:"Ex-Professor, Electronics & Electrical Communication Engineering, IIT Kharagpur Chairman, BOG & Director, Academy of Technology",
         twLink:"#2",
         lnLink:"#3",
-        fbLink:"#4"
+        fbLink:"#4",
+        profileImg: "/img/dilipBhattacharya.jpg"
     },
     {
         personalLink:"#",
         name:"Prof. Arun K. Majumder",
         post:"Co-Chair",
-        detail:"Ex HoD of CSE, Dean and Deputy Director, IIT KGP; Emeritus Professor, Department of Data Science, JISIASR",
+        detail:"Ex Hod of CSE, Dean and Deputy Director, IIT Kharagpur, Emeritus Professor, Department of Data Science, JISIASR",
         twLink:"#",
         lnLink:"#",
-        fbLink:"#"
+        fbLink:"#",
+        profileImg: "/img/arunMajumder.jpg"
     },
     {
         personalLink:"#",
