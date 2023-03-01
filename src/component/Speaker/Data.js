@@ -2,37 +2,33 @@ const Data=[
     {
         personalLink:"#1",
         name:"Prof. M. J. Deen",
-        detail:"Mcmaster University, Canada",
-        twLink:"#2",
-        lnLink:"#3",
-        fbLink:"#4",
+        designation:"Mcmaster University, Canada",
+        topic:"Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        details:"Lorem ipsum dolor sit amet consectetur adipisicing elit. At iure maiores explicabo laudantium eum amet in recusandae doloremque aliquid corporis veritatis voluptatem omnis rem commodi suscipit aut ut dicta .",
         profileImg: "/img/MJDeen.jpg"
     },
     {
-        personalLink:"#1",
+        personalLink:"#2",
         name:"Prof. BMA Rahman",
-        detail:"City, University of London, UK",
-        twLink:"#2",
-        lnLink:"#3",
-        fbLink:"#4",
+        topic:"Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        details:"Lorem ipsum dolor sit amet consectetur adipisicing elit. At iure maiores explicabo laudantium eum amet in recusandae doloremque aliquid corporis veritatis voluptatem omnis rem commodi suscipit aut ut dicta .",
+        designation:"City, University of London, UK",
         profileImg: "/img/BMARaman.jpg"
     },
     {
-        personalLink:"#1",
+        personalLink:"#3",
         name:"Prof. Rob Roy",
-        detail:"Executive Vice President, TEOCO, Fairfax, Virginia, USA",
-        twLink:"#2",
-        lnLink:"#3",
-        fbLink:"#4",
+        topic:"Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        details:"Lorem ipsum dolor sit amet consectetur adipisicing elit. At iure maiores explicabo laudantium eum amet in recusandae doloremque aliquid corporis veritatis voluptatem omnis rem commodi suscipit aut ut dicta .",
+        designation:"Executive Vice President, TEOCO, Fairfax, Virginia, USA",
         profileImg: "/img/RobRoy.jpg"
     },
     {
-        personalLink:"#",
+        personalLink:"#4",
         name:"Prof. Ajay Kr Ray",
-        detail:"ExProfessor of IIT Kharagpur and Ex-Director of IIEST Shibpur Padma Shri Awardee",
-        twLink:"#",
-        lnLink:"#",
-        fbLink:"#",
+        topic:"Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        details:"Lorem ipsum dolor sit amet consectetur adipisicing elit. At iure maiores explicabo laudantium eum amet in recusandae doloremque aliquid corporis veritatis voluptatem omnis rem commodi suscipit aut ut dicta .",
+        designation:"ExProfessor of IIT Kharagpur and Ex-Director of IIEST Shibpur Padma Shri Awardee",
         profileImg: "/img/AjaiKRRay.jpg"
     }
 ]
