@@ -34,23 +34,24 @@ const Slider = () => {
         <span>
           <h2 style={{fontWeight: 'normal'}}>4th International Conference on</h2>
           <h1>
-            Intelligent Computing, Communication & Control 2023 <br/>
-            [ ICIC3 ]
+            Intelligent Computing, Communication & Control 2023 [ ICIC3 ]
+          </h1>
+          <h2 style={{fontWeight: 'normal',display:"inline"}}>based on  </h2>
+          <h1 style={{display:"inline"}}>
+            INTELLIGENT INTERNET OF THINGS <br/>
           </h1>
           <img src="img/conflogo1.png" style={{height: 200, width: 200}}></img>
-          <img src="img/CSI_Logo.png" className="logoCSI" style={{height: 110, width: 110}}></img>
-          <img src="img/IEI_Logo.png" className="logoIEI" style={{height: 110, width: 110}}></img>
-          <img src="img/IETE_Logo.png" className="logoIETE" style={{height: 110, width: 110}}></img>
+         
           <h3>
             ( I N &nbsp; H Y B R I D &nbsp; M O D E )
           </h3>
           <h3></h3>
           <h2>AUGUST 19-20, 2023</h2>
           <h4>Organised by:</h4>
-          <h2>Academy of Technology</h2>
-
+          <h2 className="m-0">Academy of Technology</h2>
           <h5>Aedconagar, Adisaptagram, Hooghly,</h5>
           <h5>West Bengal - 712121</h5>
+          <h5 >in association with <span style={{fontWeight:"bold"}}>MAULANA ABUL KALAM AZAD UNIVERSITY OF TECHNOLOGY, WEST BENGAL</span></h5>
         </span>
       </div>
     </div>
