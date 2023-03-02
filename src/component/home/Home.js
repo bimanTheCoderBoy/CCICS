@@ -51,7 +51,7 @@ const Slider = () => {
           <h2 className="m-0">Academy of Technology</h2>
           <h5>Aedconagar, Adisaptagram, Hooghly,</h5>
           <h5>West Bengal - 712121</h5>
-          <h5 >in association with <span style={{fontWeight:"bold"}}>MAULANA ABUL KALAM AZAD UNIVERSITY OF TECHNOLOGY, WEST BENGAL</span></h5>
+          <h5 >in association with: <br /><span style={{fontWeight:"bold"}}>MAULANA ABUL KALAM AZAD UNIVERSITY OF TECHNOLOGY, WEST BENGAL</span></h5>
         </span>
       </div>
     </div>
