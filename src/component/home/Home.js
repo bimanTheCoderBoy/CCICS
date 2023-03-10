@@ -36,7 +36,7 @@ const Slider = () => {
           <h1>
             Intelligent Computing, Communication & Control 2023 [ ICIC3 ]
           </h1>
-          <h2 style={{fontWeight: 'normal',display:"inline"}}>based on  </h2>
+          <h2 style={{fontWeight: 'normal',display:"inline"}}>based on  Conference Theme</h2>
           <h1 style={{display:"inline"}}>
             INTELLIGENT INTERNET OF THINGS <br/>
           </h1>
