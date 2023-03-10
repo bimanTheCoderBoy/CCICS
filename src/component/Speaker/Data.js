@@ -33,11 +33,11 @@ const Data=[
     },
     {
         personalLink:"#5",
-        name:"Prof. Nilanjan Dey",
+        name:"Prof. Nilanjan Dey (PhD., SMIEEE)",
         topic:"to be updated...",
-        details:"to be updated...",
-        designation:"",
-        profileImg: ""
+        details:"Editor-in-Chief: Int. J. of Ambient Computing and Intelligence (Scopus, DBLP, ACM dl, WoS), Springer Series Editor: Springer Tracts in Nature-Inspired Computing (STNIC), Data-Intensive Research (DIR), Springer Nature, Series Co-Editor of Advances in Ubiquitous Sensing Applications for Healthcare, Elsevier, Series Editor of Intelligent Signal Processing and Data Analysis, CRC Press (Focus Series) , De Gruyter Series on the Internet of Things , De Gruyter.RG GoogleScholar",
+        designation:"Associate Professor, Department of Computer Science and Engineering , Techno International New Town, Kolkata, India . Visiting Fellow, WC Laboratory, Department of Biomedical Engineering, University of Reading, UK, Ambassador - IFIP InterYIT, India.",
+        profileImg: "/img/NIlanganRoy.jpg"
     }
 ]
 export default Data;

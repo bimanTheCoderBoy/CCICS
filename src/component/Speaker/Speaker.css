@@ -9,7 +9,7 @@
     .sp-wrap{
       overflow: hidden;
       width: 70vw;
-      height: 350px;
+      min-height: 350px;
       /* color: #007BFF; */
       border-radius: 10px;
       margin-bottom: 1.5rem;
@@ -26,7 +26,7 @@
     }
     .sp-info{
       margin: 0;
-      height: 350px;
+      min-height: 350px;
       /* background-color: #232C99; */
       text-align: justify;
       padding-left:45px ;

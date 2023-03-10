@@ -8,7 +8,8 @@ import Data from "./Data";
 
 const Speaker = () => {
   return (
-    <div className="mt-5 container" >
+    <div className="spwrapper m-0 pb-5" style={{ width: "100%", backgroundColor: "white", padding: "1rem 0" }}>
+    <div className="mt-5 container " >
       <Heading>KEYNOTE SPEAKERS</Heading>
 
       {/* <div style={{"marginBottom": 100}}>
@@ -78,6 +79,7 @@ const Speaker = () => {
    
       </div>
       
+    </div>
     </div>
   );
 };

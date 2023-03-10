@@ -4,7 +4,7 @@ import {MdKeyboardArrowRight,MdKeyboardArrowLeft} from "react-icons/md";
 
 const About = () => {
   return (
-    <div className='About' id='gallery'>
+    <div className='About mb-0' id='gallery'>
       <div className="row">
         <div className="col-6 col-up">
         <h2 className='FM1 mb-5 '>About AOT</h2>

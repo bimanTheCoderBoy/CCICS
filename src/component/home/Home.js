@@ -9,7 +9,7 @@ import Timer from "./Timer";
 import $ from "jquery";
 import Video from "./Video";
 import Dummy from "./Dummy";
-
+import Speaker from "../Speaker/Speaker";
 // var index = 0;
 // setInterval(() => {
 //   index = (index + 1) % 3;
@@ -36,7 +36,7 @@ const Slider = () => {
           <h1>
             Intelligent Computing, Communication & Control 2023 [ ICIC3 ]
           </h1>
-          <h2 style={{fontWeight: 'normal',display:"inline"}}>based on  Conference Theme</h2>
+          <h2 style={{fontWeight: 'normal',display:"inline"}}>based on Conference Theme </h2>
           <h1 style={{display:"inline"}}>
             INTELLIGENT INTERNET OF THINGS <br/>
           </h1>
@@ -66,6 +66,9 @@ const Home = () => {
       <Video />
       <Dummy height="5rem" />
       <About />
+    
+      <Speaker />
+      
       <Contact />
       <Faq />
       <Venue />
