@@ -30,28 +30,35 @@ const Slider = () => {
       {/* <img src="img/slider-img-1.jpg" alt="" className="slides" />
       <img src="img/slider-img-2.jpg" alt="" className="slides" />
       <img src="img/slider-img-3.jpeg" alt="" className="slides" /> */}
+          <img src="img/conflogo1.png" style={{height: 120, width: 120, zIndex: 99999}}></img>
       <div className="content">
         <span>
           <h2 style={{fontWeight: 'normal'}}>4th International Conference on</h2>
           <h1>
             Intelligent Computing, Communication & Control 2023 [ ICIC3 ]
           </h1>
-          <h2 style={{fontWeight: 'normal',display:"inline"}}>based on Conference Theme </h2>
+          <h2 style={{fontWeight: 'normal',display:"inline"}}></h2><h4 style={{marginTop: -5}}>based on </h4>
           <h1 style={{display:"inline"}}>
             INTELLIGENT INTERNET OF THINGS <br/>
           </h1>
-          <img src="img/conflogo1.png" style={{height: 200, width: 200}}></img>
+          <h4> In Association with</h4>
+          <img src="img/CSI_Logo.png" style={{height: 100, width: 100, padding: 10}}></img>
+          <img src="img/IEI_Logo.png" style={{height: 100, width: 100, padding: 10}}></img>
+          <img src="img/IETE_Logo.png" style={{height: 100, width: 100, padding: 10}}></img>
+          <img src="img/image4.jpeg" style={{height: 100, width: 100, padding: 10}}></img>
+
+
          
-          <h3>
-            ( I N &nbsp; H Y B R I D &nbsp; M O D E )
-          </h3>
           <h3></h3>
           <h2>AUGUST 19-20, 2023</h2>
+          <h3>
+            ( H Y B R I D &nbsp; M O D E )
+          </h3>
           <h4>Organised by:</h4>
           <h2 className="m-0">Academy of Technology</h2>
           <h5>Aedconagar, Adisaptagram, Hooghly,</h5>
           <h5>West Bengal - 712121</h5>
-          <h5 >in association with: <br /><span style={{fontWeight:"bold"}}>MAULANA ABUL KALAM AZAD UNIVERSITY OF TECHNOLOGY, WEST BENGAL</span></h5>
+          {/* <h5 >in association with: <br /><span style={{fontWeight:"bold"}}>MAULANA ABUL KALAM AZAD UNIVERSITY OF TECHNOLOGY, WEST BENGAL</span></h5> */}
         </span>
       </div>
     </div>
