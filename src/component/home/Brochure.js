@@ -4,6 +4,7 @@ import Generator from "../Committee/Generator";
 import CardGen from "./CardGen";
 import Data1 from "./Data1";
 import Data2 from "./Data2";
+import Swaper from "./Swaper";
 
 const Brochure = () => {
   return (
@@ -13,18 +14,19 @@ const Brochure = () => {
           <div className="col-4">
             <Link to="/brochure-detail">
               <img
+              
                 src="img/brochure.png"
-                height="700px"
+                height="740px"
                 width="300px"
                 alt="brochure"
-                style={{ cursor: "pointer" }}
+                style={{ cursor: "pointer" ,borderRadius:"7px"}}
               />
             </Link>
           </div>
-          <div className="col-8 col-ab-ccics">
+          <div className="col-8 col-ab-ccics mb-0">
             <h2 className="FM1">About ICIC3</h2>
             <br />
-            <h4 className="FM4">
+            <h4 className="FM4 mb-0">
               The 4th International Conference on Intelligent Computing, Communication
                & Control 2023 [ICIC3] is an endeavour to bring researchers,
               academicians, students and industrial experts under a single roof
@@ -61,8 +63,9 @@ const Brochure = () => {
               arena, business world, and industrial community and in turn to
               society.
             </h4>
+            <Swaper/>
           </div>
-          <div className="mt-5">
+          <div className="mt-5 ">
             <Generator data={Data1} />
           </div>
 
