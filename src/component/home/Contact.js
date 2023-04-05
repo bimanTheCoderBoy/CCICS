@@ -7,7 +7,7 @@ const Contact = () => {
         <h1>Contact Us</h1>
         <br />
       <div className="container form">
-        <form action="https://formsubmit.co/daskumarbiman2020@gmail.com" method="post">
+        <form action="https://formsubmit.co/anil.sharma@aot.edu.in" method="post">
             <input className="formItems " name="name" placeholder="Enter Name..." type="text" />
             <br/>
             <input className="formItems " name="email" placeholder="Enter Email..." type="email" />

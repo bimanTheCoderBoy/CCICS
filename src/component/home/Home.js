@@ -30,7 +30,6 @@ const Slider = () => {
       {/* <img src="img/slider-img-1.jpg" alt="" className="slides" />
       <img src="img/slider-img-2.jpg" alt="" className="slides" />
       <img src="img/slider-img-3.jpeg" alt="" className="slides" /> */}
-          <img src="img/conflogo1.png" style={{height: 120, width: 120, zIndex: 99999}}></img>
       <div className="content">
         <span>
           <h2 style={{fontWeight: 'normal', fontSize: 28, fontStyle: 'italic'}}>4th International Conference on</h2>
@@ -38,9 +37,9 @@ const Slider = () => {
             Intelligent Computing, Communication & Control [ ICIC3 ]
           </h1>
 
-          <h2 style={{fontWeight: 'normal',display:"inline"}}>based on Conference Theme </h2>
+          {/* <h2 style={{fontWeight: 'normal',display:"inline"}}>based on Conference Theme </h2>
           <h1 style={{display:"inline"}}>
-            INTELLIGENT INTERNET OF THINGS </h1><br/>
+            INTELLIGENT INTERNET OF THINGS </h1><br/> */}
 
           <h2 style={{fontWeight: 'normal',display:"inline"}}></h2>
           <h1 style={{display:"inline"}}><span style={{fontWeight: 'normal', fontSize: 30}}>Theme:</span> Data-driven IoT for Sustainable Development <br/>
@@ -52,6 +51,7 @@ const Slider = () => {
           <h3>
             ( H Y B R I D &nbsp; M O D E )
           </h3>
+          {/* <img src="img/conflogo1.png" style={{height: 120, width: 120, marginBottom: -10}}></img> */}
           <h4>Organised by:</h4>
           <h2 className="m-0">Academy of Technology</h2>
           {/* <h5>Aedconagar, Adisaptagram, Hooghly,</h5>
