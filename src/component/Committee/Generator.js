@@ -1,8 +1,6 @@
 import React from 'react'
 import "./GeneratorCss.css"
-import {BsFacebook} from "react-icons/bs"
-import {RxLinkedinLogo} from "react-icons/rx"
-import {GrTwitter} from "react-icons/gr"
+
 const Generator = (props) => {
    const Data=props.data;
   return (
@@ -21,23 +19,6 @@ const Generator = (props) => {
                 <h2 className="name m-0 mb-1 p-0">{e.name}</h2>
                 <p className='post m-0 mb-2 p-0'>{e.post}</p>
                 <p className="info m-0 mb-2 p-0">{e.detail}</p>
-                <div className="social m-0 p-0">
-                   <span>
-                   <a href={e.twLink}>
-                    <GrTwitter/>
-                    </a>
-                    </span>
-                    <span>
-                    <a href={e.lnLink}>
-                    <RxLinkedinLogo/>
-                    </a>
-                    </span>
-                    <span>
-                    <a href={e.fbLink}>
-                    <BsFacebook/>
-                    </a>
-                    </span>
-                </div>
                 </div>
                 </div>
             )

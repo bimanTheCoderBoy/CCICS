@@ -2,7 +2,7 @@ const Data=[
     {
         personalLink:"#1",
         name:"Prof. M. J. Deen",
-        designation:"Mcmaster University, Canada",
+        designation:"Distinguished Professor, Department of Electrical & Computer Engineering, Mcmaster University, Canada",
         topic:"to be updated...",
         details:"to be updated...",
         profileImg: "/img/MJDeen.jpg"
@@ -10,9 +10,9 @@ const Data=[
     {
         personalLink:"#2",
         name:"Prof. BMA Rahman",
+        designation:"Professor of Photonics, Department of Computer Science & Engineering, City University of London, UK",
         topic:"to be updated...",
         details:"to be updated...",
-        designation:"City, University of London, UK",
         profileImg: "/img/BMARaman.jpg"
     },
     {
@@ -28,7 +28,7 @@ const Data=[
         name:"Prof. Ajay Kr Ray",
         topic:"to be updated...",
         details:"to be updated...",
-        designation:"ExProfessor of IIT Kharagpur and Ex-Director of IIEST Shibpur Padma Shri Awardee",
+        designation:"Ex-Professor, IIT Kharagpur & Ex-Director, IIEST Shibpur, Padma Shri Awardee",
         profileImg: "/img/AjaiKRRay.jpg"
     },
     {

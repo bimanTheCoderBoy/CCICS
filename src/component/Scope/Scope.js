@@ -11,7 +11,7 @@ const Scope = () => {
         {/* SECTION 1 start */}
         <div className="tracks row">
           <div className="col-9">
-            <h1 className="FM1">SECTION 1: COMPUTING IN IOT</h1>
+            <h1 className="FM1">SECTION 1: Computing in IoT</h1>
             <ul>
               <li>AI Algorithms in IOT </li>
               <li>Data Mining & Machine learning Tools</li>
@@ -43,7 +43,7 @@ const Scope = () => {
         {/* SECTION 2 start */}
         <div className="tracks row">
           <div className="col-9">
-            <h1 className="FM1">SECTION 2: COMMUNICATION IN IOT</h1>
+            <h1 className="FM1">SECTION 2: Communication in IoT</h1>
             <ul>
               <li>	Wireless Communication</li>
               <li>	Telecommunication Systems</li>
@@ -76,7 +76,7 @@ const Scope = () => {
         {/* SECTION 3 */}
         <div className="tracks row">
           <div className="col-9">
-            <h1 className="FM1">SECTION 3: CONTROL & INSTRUMENTATION IN IOT</h1>
+            <h1 className="FM1">SECTION 3: Control & Instrumentation in IoT</h1>
             <ul>
             <li>Renewable and Green Energy</li>
             <li>Active Distribution Network Management Control Applications to Power Systems</li>
