@@ -8,7 +8,7 @@ const Nav = () => {
   return (
     <div className={Style.mainNav} >
       <div className={Style.logo}>
-       <Link to="/"> <img src="https://webconfinal.bimandas.repl.co/assets/images/aot-logo.jpg" height={24}  width={40} alt="" /></Link>
+       <Link to="/"> <img src="img/aot-logo.jpg" height={34}  width={80} alt="" /></Link>
       </div>
       <div className={Style.navItemm}>
       <Link to="/#about">about</Link>
@@ -38,6 +38,7 @@ const Nav = () => {
       <Link to="/Sponsors">sponsors</Link>
       <Link to="/#gallery">gallery</Link>
       <Link to="/Attractions">Attractions</Link>
+      <Link to="/PrevConf">Prev Conferences</Link>      
       </div>
       </div>
       </div>

@@ -2,6 +2,7 @@ import React from 'react'
 
 const Contact = () => {
   return (
+
     <div className="contact" id='contact'>
         <h1>Contact Us</h1>
         <br />
@@ -18,6 +19,8 @@ const Contact = () => {
             <button type='submit'>SUBMIT</button>
             </div>
         </form>
+
+   
       </div>
     </div>
   )

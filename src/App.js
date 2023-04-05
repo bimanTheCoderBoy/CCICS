@@ -16,6 +16,8 @@ import Registration from "./component/Registration/Registration";
 import Attractions from "./component/Attractions/Attractions";
 import Sponsors from "./component/Sponsors/Sponsors";
 import Loding from "./component/loading/Loding";
+import PrevConf from "./component/PrevConf/PrevConf";
+
 import {
   BrowserRouter as Router,
   Switch,
@@ -86,6 +88,9 @@ function App() {
         </Route>
         <Route path="/Attractions">
           <Attractions />
+        </Route>
+        <Route path="/PrevConf">
+          <PrevConf />
         </Route>
         <Route path="/Sponsors">
           <Sponsors />
