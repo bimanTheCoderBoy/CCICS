@@ -1,20 +1,26 @@
-import React from "react";
+import React from 'react'
 
 const Contact = () => {
   return (
-    <div className="contact" id="contact">
-      <h1>Contact Us</h1>
-      <br />
-      <div>
-        <ul>
-          <li>Prof. Anil Kumar Sharma, Academy of Technology,<br/>Email: anil.sharma@aot.edu.in<br/> Contact No: 9333837505</li>
-          <li>Prof. Kanishka Majumder, Academy of Technology, <br/>Email: kanishka.majumder@aot.edu.in <br/> Contact No: 9836674980</li>
-          <li>Prof. Soumya Chatterjee, Academy of Technology, <br/>Email: soumya.chatterjee@aot.edu.in <br/> Contact No: 8617774883 </li>
-        </ul>
-        Or, Email us @ <a href="mailto:ICIC3-2023@aot.edu.in">ICIC3-2023@aot.edu.in</a>
+    <div className="contact" id='contact'>
+        <h1>Contact Us</h1>
+        <br />
+      <div className="container form">
+        <form action="https://formsubmit.co/daskumarbiman2020@gmail.com" method="post">
+            <input className="formItems " name="name" placeholder="Enter Name..." type="text" />
+            <br/>
+            <input className="formItems " name="email" placeholder="Enter Email..." type="email" />
+            <br/>
+            <textarea className="formItems " placeholder="Message" name="message" id="message" cols="30" rows="8"></textarea>
+            <br />
+            <br />
+            <div className="button">
+            <button type='submit'>SUBMIT</button>
+            </div>
+        </form>
       </div>
     </div>
-  );
-};
+  )
+}
 
-export default Contact;
+export default Contact

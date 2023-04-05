@@ -24,6 +24,7 @@ const Speaker = () => {
       <div className="row">
      
         <div className="col-md-8 sp-info">
+        <div className="sp-info-child">
         <div className="sp-topic-wrap m-2">
           <span className="sp-topic">Name :  <p>{e.name}</p></span>
           
@@ -37,10 +38,11 @@ const Speaker = () => {
           <div className="sp-topic-wrap m-2">
           <span className="sp-topic">Details :  <p>{e.details}</p></span>
           </div>
-          
+          </div>
+         
 
         </div>
-        <div className="col-md-4 sp-img" >
+        <div className="col-md-4 sp-img text-center" style={{display:"flex",justifyContent:"center",alignItems:"center",flexDirection:"column" }} >
          <img src={e.profileImg} alt="" />
         </div>
       </div>
@@ -48,10 +50,11 @@ const Speaker = () => {
   const value2= <div className="sp-wrap">
       
       <div className="row">
-      <div className="col-md-3 sp-img" style={{padding:"0px",paddingLeft:"50px" }} >
+      <div className="col-md-3 sp-img " style={{padding:"0px",paddingLeft:"50px",display:"flex",justifyContent:"center",alignItems:"center" }} >
          <img src={e.profileImg} alt="" />
         </div>
         <div className="col-md-9 sp-info" style={{paddingLeft:"30px" ,paddingRight:"50px"}}>
+        <div className="sp-info-child">
         <div className="sp-topic-wrap m-2">
           <span className="sp-topic">Name :  <p>{e.name}</p></span>
           
@@ -64,6 +67,7 @@ const Speaker = () => {
           </div>
           <div className="sp-topic-wrap m-2">
           <span className="sp-topic">Details :  <p>{e.details}</p></span>
+          </div>
           </div>
           
 
