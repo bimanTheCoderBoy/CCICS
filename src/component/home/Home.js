@@ -5,7 +5,7 @@ import Faq from "./Faq";
 import Contact from "./Contact";
 import About from "./About";
 import Brochure from "./Brochure";
-import Timer from "./Timer";
+// import Timer from "./Timer";
 import $ from "jquery";
 import Video from "./Video";
 import Dummy from "./Dummy";
@@ -42,7 +42,7 @@ const Slider = () => {
           </h1>
           
           <h3></h3>
-          <h2>7<sup>th</sup> & 8<sup>th</sup> October, 2023</h2>
+          {/* <h2>7<sup>th</sup> & 8<sup>th</sup> October, 2023</h2> */}
           <h3>
             ( H Y B R I D &nbsp; M O D E )
           </h3>
@@ -68,7 +68,7 @@ const Home = () => {
   return (
     <>
       <Slider />
-      <Timer />
+      {/* <Timer /> */}
       <Brochure />
       <Video />
       <Dummy height="5rem" />
