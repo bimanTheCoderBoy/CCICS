@@ -34,7 +34,7 @@ const Slider = () => {
         <span>
           <h2 style={{fontWeight: 'normal', fontSize: 28, fontStyle: 'italic'}}>4th International Conference on</h2>
           <h1 style={{fontWeight: 'normal', fontSize: 30}}>
-            Intelligent Computing, Communication & Control [ ICIC3 ]
+            Computer, Communication, Control & Information Technology [ C3IT ]
           </h1>
 
           {/* <h2 style={{fontWeight: 'normal',display:"inline"}}>based on Conference Theme </h2>
@@ -47,7 +47,7 @@ const Slider = () => {
           </h1>
           
           <h3></h3>
-          <h2>7<sup>th</sup> & 8<sup>th</sup> October, 2023</h2>
+          {/* <h2>7<sup>th</sup> & 8<sup>th</sup> October, 2023</h2> */}
           <h3>
             ( H Y B R I D &nbsp; M O D E )
           </h3>
@@ -57,7 +57,7 @@ const Slider = () => {
           {/* <h5>Aedconagar, Adisaptagram, Hooghly,</h5>
           <h5>West Bengal - 712121</h5> */}
           <br />
-          <h5><i>In association with</i><br /><span style={{fontWeight:"bold"}}>MAULANA ABUL KALAM AZAD UNIVERSITY OF TECHNOLOGY, WEST BENGAL</span></h5>
+          <h5><i>In association with</i><br /><span style={{fontWeight:"bold"}}>IEEE Kolkata Section</span></h5>
 
           <h4> Sponsored by </h4>
           <img src="img/CSI_Logo.png" style={{height: 100, width: 100, padding: 10}}></img>
@@ -74,7 +74,7 @@ const Home = () => {
   return (
     <>
       <Slider />
-      <Timer />
+      {/* <Timer /> */}
       <Brochure />
       <Video />
       <Dummy height="5rem" />

@@ -24,11 +24,11 @@ const Brochure = () => {
             </Link>
           </div>
           <div className="col-8 col-ab-ccics mb-0">
-            <h2 className="FM1">About ICIC3</h2>
+            <h2 className="FM1">About C3IT</h2>
             <br />
             <h4 className="FM4 mb-0">
-              The 4th International Conference on Intelligent Computing, Communication
-               & Control 2023 [ICIC3] is an endeavour to bring researchers,
+              The 4th International Conference on Computer, Communication, Control & Information Technology 2024
+               [C3IT] is an endeavour to bring researchers,
               academicians, students and industrial experts under a single roof
               to explore latest developments, applications, results and
               innovative ideas in various domains of communication, control and
