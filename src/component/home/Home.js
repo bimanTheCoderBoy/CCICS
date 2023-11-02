@@ -42,9 +42,9 @@ const Slider = () => {
             INTELLIGENT INTERNET OF THINGS </h1><br/> */}
 
           <h2 style={{fontWeight: 'normal',display:"inline"}}></h2>
-          <h1 style={{display:"inline"}}><span style={{fontWeight: 'normal', fontSize: 30}}>Theme:</span> Data-driven IoT for Sustainable Development <br/>
+          {/* <h1 style={{display:"inline"}}><span style={{fontWeight: 'normal', fontSize: 30}}>Theme:</span> Data-driven IoT for Sustainable Development <br/>
 
-          </h1>
+          </h1> */}
           
           <h3></h3>
           {/* <h2>7<sup>th</sup> & 8<sup>th</sup> October, 2023</h2> */}
