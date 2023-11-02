@@ -3,13 +3,7 @@ import Heading from '../Heading'
 import "./Sponser.css"
 const imgData=[
   {
-  img:"img/CSI_Logo.png"
-},
-{
-  img:"img/IEI_Logo.png"
-},
-{
-  img:"img/IETE_Logo.png"
+  img:"img/ieee-computer-society-logo.png"
 }
 ];
 
