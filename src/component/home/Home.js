@@ -60,10 +60,12 @@ const Slider = () => {
           <h5><i>In association with</i><br /><span style={{fontWeight:"bold"}}>IEEE Kolkata Section</span></h5>
 
           <h4> Sponsored by </h4>
-          <img src="img/CSI_Logo.png" style={{height: 100, width: 100, padding: 10}}></img>
-          <img src="img/IEI_Logo.png" style={{height: 100, width: 100, padding: 10}}></img>
+          <h2>IEEE Computer Society</h2>
+          <img src="img/ieee-computer-society-logo.png" style={{height: 100, width: 200,marginLeft:120,padding:10 }}></img>
+          {/* <img src="img/CSI_Logo.png" style={{height: 100, width: 100, padding: 10}}></img> */}
+          {/* <img src="img/IEI_Logo.png" style={{height: 100, width: 100, padding: 10}}></img>
           <img src="img/IETE_Logo.png" style={{height: 100, width: 100, padding: 10}}></img>
-          <img src="img/image4.jpeg" style={{height: 100, width: 100, padding: 10}}></img>
+          <img src="img/image4.jpeg" style={{height: 100, width: 100, padding: 10}}></img> */}
          
         </span>
       </div>
