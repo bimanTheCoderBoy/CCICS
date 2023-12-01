@@ -33,11 +33,16 @@ const Slider = () => {
       <div className="content">
         <span>
           <h2
-            style={{ fontWeight: "normal", fontSize: 28, fontStyle: "italic" }}
+            style={{
+              fontWeight: "normal",
+              fontSize: 28,
+              fontStyle: "italic",
+              paddingTop: 18,
+            }}
           >
-            4th International Conference on
+            4<sup>th</sup> International Conference on
           </h2>
-          <h1 style={{ fontWeight: "normal", fontSize: 30 }}>
+          <h1 style={{ fontWeight: "bold", fontSize: 34 }}>
             Computer, Communication, Control & Information Technology [ C3IT -
             2024 ]
           </h1>
@@ -56,7 +61,9 @@ const Slider = () => {
           <h3>
             ( H Y B R I D &nbsp; M O D E )<br />
             <br />
-            <p style={{ fontSize: "26px" }}>28th & 29th September 2024</p>
+            <p style={{ fontSize: "28px", fontWeight: "bold" }}>
+              28<sup>th</sup> & 29<sup>th</sup> September, 2024
+            </p>
           </h3>
           {/* <img src="img/conflogo1.png" style={{height: 120, width: 120, marginBottom: -10}}></img> */}
           <h4>Organised by:</h4>
@@ -67,7 +74,9 @@ const Slider = () => {
           <h5>
             <i>In association with</i>
             <br />
-            <span style={{ fontWeight: "bold" }}>IEEE Kolkata Section</span>
+            <span style={{ fontWeight: "bold", fontSize: "34px" }}>
+              IEEE Kolkata Section
+            </span>
           </h5>
 
           <h4> Sponsored by </h4>

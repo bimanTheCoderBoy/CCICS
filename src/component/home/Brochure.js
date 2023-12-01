@@ -14,7 +14,7 @@ const Brochure = () => {
           <div className="col-4">
             <Link to="/brochure-detail">
               <img
-                src="img/brochure.png"
+                src="img/side_image.png"
                 height="740px"
                 width="300px"
                 alt="brochure"
@@ -64,10 +64,7 @@ const Brochure = () => {
             </h4>
             <Swaper />
           </div>
-          <img
-            src="img/Call_for_papers.png"
-            style={{ width: "100%", padding: "25px" }}
-          ></img>
+
           <div className="mt-5 ">
             <Generator data={Data1} />
           </div>
@@ -75,6 +72,10 @@ const Brochure = () => {
           <div className="mt-5">
             <CardGen data={Data2} />
           </div>
+          <img
+            src="img/Call_for_papers.png"
+            style={{ width: "70%", margin: "auto", padding: "25px" }}
+          ></img>
         </div>
       </div>
     </div>
