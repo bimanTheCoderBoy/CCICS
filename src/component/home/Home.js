@@ -73,7 +73,7 @@ const Slider = () => {
           <h4> Sponsored by </h4>
           <img
             src="img/IEEE_logos.webp"
-            style={{ width: 500, padding: 10 }}
+            style={{ width: 350, padding: 10 }}
           ></img>
           {/* <img src="img/CSI_Logo.png" style={{height: 100, width: 100, padding: 10}}></img> */}
           {/* <img src="img/IEI_Logo.png" style={{height: 100, width: 100, padding: 10}}></img>
